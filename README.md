@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Hello community, {c:red}GuilhermeBorges3Ddev{/c} here!!! I'm rewritting all the free course done in channel `Coding Addict`,check the course and support the channel of our friend in the link bellow:
+Hello community,  __*GuilhermeBorges3Ddev*__ here!!! I'm rewritting all the free course done in channel `Coding Addict`,check the course and support the channel of our friend in the link bellow:
 
   - https://www.youtube.com/watch?v=Uhy3gtZoeOM&t=2119s
 
