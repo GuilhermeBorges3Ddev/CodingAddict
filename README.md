@@ -13,6 +13,7 @@ $ git clone https://github.com/GuilhermeBorges3Ddev/CodingAddict.git
 $ git pull (Everytime when you see a new file)
 ```
 # Order what I recommend to explore the files:
+First, be on your local server and open the directory '/Tutorial' to test the following files:
   1)  index.html 
   2)  BootstrapIndex.html 
   3)  TextAndBackgrounds.html
@@ -23,9 +24,9 @@ $ git pull (Everytime when you see a new file)
   8)  MarginPadding.html
   9)  Flexbox.html
   10)  RowIsFlex.html
-
+After test the ten files in your own local server...
 ----
 
-**Free Software, Hell Yeah!**
+**Free codes for everyone, Hell Yeah!**
 
 
