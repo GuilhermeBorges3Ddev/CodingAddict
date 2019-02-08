@@ -13,3 +13,18 @@ body{
     margin: 0 auto;
     /* background: blue!important; */
 }
+
+.height-80{
+    min-height: 80vh;
+}
+
+.about-picture{
+    background: url(../img/about-bcg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*
+    background: url(../img/about-bcg.jpeg)center/cover no-repeat fixed;
+    */
+}
