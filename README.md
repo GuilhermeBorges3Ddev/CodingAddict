@@ -24,8 +24,15 @@ First, be on your local server and open the directory '/Tutorial' to test the fo
   8)  MarginPadding.html
   9)  Flexbox.html
   10)  RowIsFlex.html
-After test the ten files in your own local server...
+<br/> After test the ten files in your own local server go to the next section... <br/>
 ----
+
+# After explore '/Tutorial' directory go in '/SETUP' to test the project:
+While in your localserver do the following instruction:
+<https://127.0.0.1/CodingAddict/>
+<br/>Or:<br/>
+<https://127.0.0.1/CodingAddict/index.html>
+!!!EOF MY FR13ND5!!!  
 
 **Free codes for everyone, Hell Yeah!**
 
