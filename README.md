@@ -28,10 +28,10 @@ First, be on your local server and open the directory '/Tutorial' to test the fo
 ----
 
 # After explore '/Tutorial' directory go in '/SETUP' to test the project:
-While in your localserver do the following instruction:
-<https://127.0.0.1/CodingAddict/>
-<br/>Or:<br/>
-<https://127.0.0.1/CodingAddict/index.html>
+While in your localserver do the following instruction:<br/>
+<https://127.0.0.1/CodingAddict/><br/>
+Or:<br/>
+<https://127.0.0.1/CodingAddict/index.html> <br/>
 !!!EOF MY FR13ND5!!!  
 
 **Free codes for everyone, Hell Yeah!**
